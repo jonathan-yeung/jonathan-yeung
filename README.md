@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## My Projects
+### The "Adventure" Playlist
+I created a recommender system to find "relevant but novel" music tracks for listeners, and added a slide bar for them to customize the playlist for themselves.
+Used techniques:
+- content-based recommendation
+- clustering: K-Means, DBSCAN, Hierarchical Agglomerative, GMM
+- NLP: Count-vectorization
+
 <!--
 **jonathan-yeung/jonathan-yeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
