@@ -1,5 +1,5 @@
 ## My Projects
-### The "Adventure" Playlist
+### [The "Adventure" Playlist](https://www.github.com/jonathan-yeung/adventure_playlist)
 I created a recommender system to find "relevant but novel" music tracks for listeners, and added a slide bar for them to customize the playlist for themselves.
 Used techniques:
 - content-based recommendation
@@ -8,7 +8,7 @@ Used techniques:
 
 &nbsp;
 
-### Quant/Algo Trading on Bitcoin - Analysis and Backtesting
+### [Quant/Algo Trading on Bitcoin - Analysis and Backtesting](https://www.github.com/jonathan-yeung/trading_strategies)
 In this project, I found insights about the Bitcoin market and backtested strategies to see whether they are effective.
 Some main types of strategies were tested:
 - Mean Reversion
