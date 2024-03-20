@@ -13,7 +13,6 @@ In this project, I intend to find insights about the Bitcoin market and backtest
 Some main types of strategies will be tested:
 - Mean Reversion
 - Trend Following
-New ideas might be added to the project in the future.
 
 Used techniques:
 - visualizations using Plotly
