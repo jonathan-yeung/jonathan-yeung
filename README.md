@@ -9,11 +9,10 @@ Used techniques:
 &nbsp;
 
 ### Quant/Algo Trading on Bitcoin - Analysis and Backtesting
-In this project, I intend to find insights about the Bitcoin market and backtest strategies to see whether they are effective.
-Some main types of strategies will be tested:
+In this project, I found insights about the Bitcoin market and backtest strategies to see whether they are effective.
+Some main types of strategies were tested:
 - Mean Reversion
 - Trend Following
-
 Used techniques:
 - visualizations using Plotly
 - data manipulations using NumPy, Pandas
