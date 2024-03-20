@@ -6,6 +6,20 @@ Used techniques:
 - clustering: K-Means, DBSCAN, Hierarchical Agglomerative, GMM
 - NLP: Count-vectorization
 
+### Quant/Algo Trading on Bitcoin - Analysis and Backtesting
+In this project, I intend to find insights about the Bitcoin market and backtest strategies to see whether they are effective.
+
+Some main types of strategies will be tested:
+- Mean Reversion
+- Trend Following
+
+New ideas might be added to the project in the future.
+
+Used techniques:
+- visualizations using Plotly
+- data manipulations using NumPy, Pandas
+- backtesting using Object-Oriented Programming
+
 <!--
 **jonathan-yeung/jonathan-yeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
