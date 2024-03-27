@@ -17,10 +17,10 @@ Some main types of strategies were tested:
 I also carried out a time series analysis on BTC-USD using the Box-Jenkins Method, fit an ARIMA model to the data, and made point forecasts and interval forecasts using the selected ARIMA model.
 
 Used techniques:
-- visualizations using Plotly, matplotlib, seaborn
-- data manipulations using NumPy, Pandas
-- backtesting using Object-Oriented Programming
-- statistical testing using stastmodels, SciPy, sklearn
+- visualizations: Plotly, matplotlib, seaborn
+- data manipulations: NumPy, Pandas
+- backtesting: Object-Oriented Programming
+- statistical testing: stastmodels, SciPy, sklearn
 - time series analysis (ARIMA), time series forecasting
 
 <!--
