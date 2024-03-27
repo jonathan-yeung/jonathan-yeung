@@ -14,10 +14,14 @@ Some main types of strategies were tested:
 - Mean Reversion
 - Trend Following
 
+I also carried out a time series analysis on BTC-USD using the Box-Jenkins Method, fit an ARIMA model to the data, and made point forecasts and interval forecasts using the selected ARIMA model.
+
 Used techniques:
-- visualizations using Plotly
+- visualizations using Plotly, matplotlib, seaborn
 - data manipulations using NumPy, Pandas
 - backtesting using Object-Oriented Programming
+- statistical testing using stastmodels, SciPy, sklearn
+- time series analysis (ARIMA), time series forecasting
 
 <!--
 **jonathan-yeung/jonathan-yeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
