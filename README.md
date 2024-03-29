@@ -6,6 +6,8 @@ Used techniques:
 - content-based recommendation
 - clustering: K-Means, DBSCAN, Hierarchical Agglomerative, GMM
 - NLP: Count-vectorization
+- data manipulations: NumPy, Pandas
+- visualizations: matplotlib, seaborn
 
 &nbsp;
 
