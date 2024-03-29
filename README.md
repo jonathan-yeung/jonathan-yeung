@@ -1,6 +1,7 @@
 ## My Projects
 ### [The "Adventure" Playlist](https://www.github.com/jonathan-yeung/adventure_playlist)
 I created a recommender system to find "relevant but novel" music tracks for listeners, and added a slide bar for them to customize the playlist for themselves.
+
 Used techniques:
 - content-based recommendation
 - clustering: K-Means, DBSCAN, Hierarchical Agglomerative, GMM
