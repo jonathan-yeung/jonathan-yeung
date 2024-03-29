@@ -8,6 +8,7 @@ Used techniques:
 - NLP: Count-vectorization
 - data manipulations: NumPy, Pandas
 - visualizations: matplotlib, seaborn
+- machine learning: sklearn
 
 &nbsp;
 
