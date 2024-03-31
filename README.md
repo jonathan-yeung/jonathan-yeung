@@ -12,7 +12,7 @@ Used techniques:
 
 &nbsp;
 
-### [Quant/Algo Trading on Bitcoin](https://www.github.com/jonathan-yeung/trading_strategies)
+### [Quant/Algo Trading On Bitcoin](https://www.github.com/jonathan-yeung/trading_strategies)
 In this project, I found insights about the Bitcoin market and backtested strategies to see whether they are effective.
 Some main types of strategies were tested:
 - Mean Reversion
