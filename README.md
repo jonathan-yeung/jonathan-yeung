@@ -1,7 +1,5 @@
 # Data Scientist
 
----
-
 ## Interests
 
 Machine Learning • Deep Learning • Artificial Intelligence • Data Visualization
@@ -17,8 +15,6 @@ Machine Learning • Deep Learning • Artificial Intelligence • Data Visualiz
       <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GITHUB" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
 </p>
-
----
 
 ## My Projects
 ### [The "Adventure" Playlist](https://www.github.com/jonathan-yeung/adventure_playlist)
