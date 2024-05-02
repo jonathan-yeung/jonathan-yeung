@@ -1,3 +1,7 @@
+## Interests
+
+Machine Learning • Deep Learning • Artificial Intelligence • Data Visualization
+
 ## Tech Stack
 
 <p>
