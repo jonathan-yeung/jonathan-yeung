@@ -15,6 +15,8 @@ Machine Learning • Deep Learning • Artificial Intelligence • Data Visualiz
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GITHUB" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="55" height="55"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="55" height="55"/>
 </p>
 
 - **Programming Languages:** `Python`, `SQL`, `Git`, `Bash`
