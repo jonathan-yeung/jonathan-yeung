@@ -1,7 +1,7 @@
 ## Tech Stack
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="code" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="code" width="55" height="55"/>
 </p>
 
 ---
