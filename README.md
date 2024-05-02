@@ -1,12 +1,13 @@
 ## Tech Stack
 
 <p>
-      <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="code" width="65" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="code" width="65" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="code" width="65" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="code" width="65" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="code" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="code" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="code" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GITHUB" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
 </p>
 
 ---
