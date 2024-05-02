@@ -16,6 +16,12 @@ Machine Learning • Deep Learning • Artificial Intelligence • Data Visualiz
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
 </p>
 
+- **Programming Languages:** `Python`, `SQL`, `Git`, `Bash`
+- **Data Visualization:** `Tableau`, `Matplotlib`, `Seaborn`, `Plotly`
+- **Statistical Testing:** `Hypothesis Testing`, `A/B Testing`, `Parametric Tests`
+- **Machine Learning:** `NumPy`, `Pandas`, `Statsmodels`, `SciPy`, `Scikit-learn`, `Regression`, `Supervised Learning`, `Time Series Forecasting`, `Clustering`, `PCA`
+- **Cloud Computing:** `AWS`, `S3`, `Hadoop`, `Spark`
+
 ## My Projects
 ### [The "Adventure" Playlist](https://www.github.com/jonathan-yeung/adventure_playlist)
 I created a recommender system to find "relevant but novel" music tracks for listeners, and added a slide bar for them to customize the playlist for themselves.
