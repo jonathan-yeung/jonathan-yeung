@@ -2,6 +2,7 @@
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="code" width="55" height="60"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="code" width="65" height="55"/>
 </p>
 
 ---
