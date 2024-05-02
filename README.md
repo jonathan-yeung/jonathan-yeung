@@ -19,7 +19,7 @@ Machine Learning • Deep Learning • Artificial Intelligence • Data Visualiz
 - **Programming Languages:** `Python`, `SQL`, `Git`, `Bash`
 - **Data Visualization:** `Tableau`, `Matplotlib`, `Seaborn`, `Plotly`
 - **Statistical Testing:** `Hypothesis Testing`, `A/B Testing`, `Parametric Tests`
-- **Machine Learning:** `NumPy`, `Pandas`, `Statsmodels`, `SciPy`, `Scikit-learn`, `Regression`, `Supervised Learning`, `Time Series Forecasting`, `Clustering`, `PCA`
+- **Machine Learning:** `NumPy`, `Pandas`, `Statsmodels`, `SciPy`, `Scikit-learn`, `Regression`, `Supervised Learning`, `NLP`, `Time Series Forecasting`, `Clustering`, `PCA`
 - **Cloud Computing:** `AWS`, `S3`, `Hadoop`, `Spark`
 
 ## My Projects
