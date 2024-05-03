@@ -10,6 +10,7 @@ Machine Learning • Deep Learning • Artificial Intelligence • Data Visualiz
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="tableau" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="code" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
@@ -22,7 +23,7 @@ Machine Learning • Deep Learning • Artificial Intelligence • Data Visualiz
 - **Programming Languages:** `Python`, `SQL`, `Git`, `Bash`
 - **Data Visualization:** `Tableau`, `Matplotlib`, `Seaborn`, `Plotly`
 - **Statistical Testing:** `Hypothesis Testing`, `A/B Testing`, `Parametric Tests`
-- **Machine Learning:** `NumPy`, `Pandas`, `Statsmodels`, `SciPy`, `Scikit-learn`, `Regression`, `Supervised Learning`, `NLP`, `Time Series Forecasting`, `Clustering`, `PCA`, `Recommender Systems`
+- **Machine Learning:** `NumPy`, `Pandas`, `Statsmodels`, `SciPy`, `Scikit-learn`, `tensorflow`, `keras`, `Regression`, `Supervised Learning`, `NLP`, `Neural Networks`, `Time Series Forecasting`, `Clustering`, `PCA`, `Recommender Systems`
 - **Cloud Computing:** `AWS`, `S3`, `Hadoop`, `Spark`
 
 ## My Projects
