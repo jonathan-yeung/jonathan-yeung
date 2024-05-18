@@ -13,7 +13,7 @@ Machine Learning • Deep Learning • Artificial Intelligence • Data Visualiz
       <img src="https://github.com/jonathan-yeung/logos/blob/main/tensorflow.svg" alt="tensorflow" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/Keras.svg" alt="keras" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/jupyter.svg" alt="jupyter" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="code" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/vscode.svg" alt="code" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/git.svg" alt="git" width="55" height="55"/> 
       <img src="https://github.com/jonathan-yeung/logos/blob/main/github.svg" alt="github" width="55" height="55"/> 
       <img src="https://github.com/jonathan-yeung/logos/blob/main/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
