@@ -21,7 +21,7 @@ Machine Learning • Deep Learning • Artificial Intelligence • Data Visualiz
       <img src="https://github.com/jonathan-yeung/logos/blob/main/vscode.svg" alt="code" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/git.svg" alt="git" width="55" height="55"/> 
       <img src="https://github.com/jonathan-yeung/logos/blob/main/github.svg" alt="github" width="55" height="55"/> 
-      <img src="https://github.com/jonathan-yeung/logos/blob/main/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/aws.svg" alt="aws" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/plotly-icon.svg" alt="plotly" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/streamlit.svg" alt="streamlit" width="55" height="55"/>
 </p>
