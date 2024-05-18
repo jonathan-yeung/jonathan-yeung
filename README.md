@@ -8,16 +8,17 @@ Machine Learning • Deep Learning • Artificial Intelligence • Data Visualiz
 
 <p>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/python.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
-      <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="tableau" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/mysql-icon.svg" alt="mysql" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/tableau-icon.svg" alt="tableau" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/tensorflow.svg" alt="tensorflow" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/Keras.svg" alt="keras" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/jupyter.svg" alt="jupyter" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="code" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GITHUB" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="55" height="55"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/git.svg" alt="git" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/github/github.svg" alt="github" width="55" height="55"/> 
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/plotly-icon.svg" alt="plotly" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/streamlit.svg" alt="streamlit" width="55" height="55"/>
 </p>
 
 - **Programming Languages:** `Python`, `SQL`, `Git`, `Bash`
