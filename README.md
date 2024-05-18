@@ -10,12 +10,12 @@ Machine Learning • Deep Learning • Artificial Intelligence • Data Visualiz
       <img src="https://github.com/jonathan-yeung/logos/blob/main/python.svg" alt="python" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/mysql-icon.svg" alt="mysql" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/tableau-icon.svg" alt="tableau" width="55" height="55"/>
-      <img src="https://github.com/jonathan-yeung/logos/blob/main/NumPy.svg" alt="numpy" width="55" height="55"/>
-      <img src="https://github.com/jonathan-yeung/logos/blob/main/Pandas.svg" alt="pandas" width="55" height="55"/>
-      <img src="https://github.com/jonathan-yeung/logos/blob/main/Matplotlib.svg" alt="matplotlib" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/numpy.svg" alt="numpy" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/pandas.svg" alt="pandas" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/matplotlib.svg" alt="matplotlib" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/seaborn.svg" alt="seaborn" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/tensorflow.svg" alt="tensorflow" width="55" height="55"/>
-      <img src="https://github.com/jonathan-yeung/logos/blob/main/Keras.svg" alt="keras" width="55" height="55"/>
+      <img src="https://github.com/jonathan-yeung/logos/blob/main/keras.svg" alt="keras" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/jupyter.svg" alt="jupyter" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/vscode.svg" alt="code" width="55" height="55"/>
       <img src="https://github.com/jonathan-yeung/logos/blob/main/git.svg" alt="git" width="55" height="55"/> 
